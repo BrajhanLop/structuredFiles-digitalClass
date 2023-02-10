@@ -1,0 +1,1 @@
+export { default as AulaEquisRoutes} from './AulaEquisRoutes'
